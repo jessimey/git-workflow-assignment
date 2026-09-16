@@ -1,10 +1,3 @@
-# Git Workflow Assignment
+## Release 1.0
 
-## New Feature
-
-This feature demonstrates Git branching and collaborative development workflows.
-
-Purpose:
-This feature helps developers practice branch creation, code reviews, and pull request workflows.
-
-Created as part of Day 27 Hands-On Assignment.
+This release demonstrates trunk-based development workflow.
