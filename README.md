@@ -1,3 +1,3 @@
-## Release 1.0
+## Feature Flag
 
-This release demonstrates trunk-based development workflow.
+The application uses a feature flag to enable or disable the new functionality without changing code.
